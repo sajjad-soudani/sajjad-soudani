@@ -1,6 +1,6 @@
 ### It's my real life 🧬
 
-- 🌱 I'm currently learning @rust-lang
+- 🌱 I'm currently learning React
 
 **_The End_**
 
