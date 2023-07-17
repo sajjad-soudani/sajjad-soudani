@@ -1,6 +1,6 @@
 ### It's my real life 🧬
 
-- 🌱 I'm currently learning React
+- 🌱 I'm currently learning [Qwik](https://qwik.builder.io)
 
 **_The End_**
 
